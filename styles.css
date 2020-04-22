@@ -5,7 +5,7 @@
 /* Variables */
 body {
   --app-background: #25262a;
-  --synth-hue:316;
+  --synth-hue:188;
   --synth-background-bottom: hsl(var(--synth-hue), 41%, 21%);
   --synth-background-mid: hsl(var(--synth-hue), 43%, 39%);
   --synth-background-top: hsl(var(--synth-hue), 44%, 44%);
