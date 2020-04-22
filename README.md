@@ -621,7 +621,7 @@ Save. Refresh. Wonderful.
 
 We'll have one last bit of fun and add some number inputs to mess with the oscillator's `attack`, `decay`, `sustain` and `release` envelopes.
 
-You can read more about these [envelope values **here**](https://tonejs.github.io/docs/13.8.25/AmplitudeEnvelope)
+You can read more about these envelope values [in the docs **here**](https://tonejs.github.io/docs/13.8.25/AmplitudeEnvelope) and [in the wiki **here**](https://github.com/Tonejs/Tone.js/wiki/Envelope)
 
 Let's refactor one last time and try to reuse some of these functions to include `envelope` number inputs as well as `radio` inputs.
 
